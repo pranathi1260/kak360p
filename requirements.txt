@@ -1,0 +1,9 @@
+python-telegram-bot==21.0
+google-genai
+googlemaps==4.10.0
+python-dotenv==1.0.1
+Pillow==10.3.0
+reportlab==4.1.0
+PyMuPDF==1.24.0
+smsmobileapi
+
